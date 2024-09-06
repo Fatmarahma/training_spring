@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "konser A",
+      "startOn": "2024-09-05T10:18:45.402377",
+      "completeOn": "2024-09-05T15:18:45.402377",
+      "participant": 600,
+      "location": "DEPOK"
+    },
+    {
+      "id": 2,
+      "title": "konser B",
+      "startOn": "2024-09-05T10:18:45.402377",
+      "completeOn": "2024-09-05T15:18:45.402377",
+      "participant": 200,
+      "location": "BEKASI"
+    },
+
+    {
+      "id": 3,
+      "title": "konser C",
+      "startOn": "2024-09-05T10:18:45.402377",
+      "completeOn": "2024-09-05T15:18:45.402377",
+      "participant": 500,
+      "location": "JAKARTA"
+    },
+    {
+      "id": 4,
+      "title": "konser D",
+      "startOn": "2024-09-05T10:18:45.402377",
+      "completeOn": "2024-09-05T15:18:45.402377",
+      "participant": 300,
+      "location": "TANGERANG"
+    },
+    {
+      "id": 5,
+      "title": "konser E",
+      "startOn": "2024-09-05T10:18:45.402377",
+      "completeOn": "2024-09-05T15:18:45.402377",
+      "participant": 100,
+      "location": "BOGOR"
+    }
+  ]
+
+}

@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT  EXISTS Event (
+id INT NOT NULL,
+title VARCHAR(250) NOT NULL,
+start_on TIMESTAMP NOT NULL,
+complete_on TIMESTAMP NOT NULL,
+participant INT NOT NULL,
+location VARCHAR (10) NOT NULL,
+PRIMARY KEY (id)
+);
